@@ -2,7 +2,7 @@
 
 Just for educational purposes!
 
-1. Instalation:
+Instalation:
    ```bash
    git clone https://github.com/Driz-Xploit/simple-reverseshell-netcat.git
    cd simple-netcat-reverse-shell
